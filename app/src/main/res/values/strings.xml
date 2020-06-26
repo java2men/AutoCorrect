@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AutoCorrect</string>
+    <string name="service_name">Auto Correct</string>
+    <string name="service_description">Замена слов в соотвествии со словарем</string>
+    <string name="info_special_settings">Откройте настройки спец. возможностей, чтобы запустить сервис автокоррекции</string>
+    <string name="open_special_settings">Спец. возможности</string>
+    <string name="dictionary">Словарь:</string>
+    <string name="dictionary_not_found">Словарь не найден</string>
+
+    <string name="dictionary_json">
+        {
+            "name": "my_dic",
+            "words": [
+                        {"original": "hello", "to": "bye"},
+                        {"original": "ios", "to": "android"},
+                        {"original": "windows", "to": "linux"},
+                        {"original": "remove_string", "to": \"\"},
+                        {"original": "опора", "to": \"\"},
+                        {"original": "june", "to": \"\"}
+            ]
+        }
+    </string>
+
+
+
+</resources>
